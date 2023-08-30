@@ -1,3 +1,8 @@
+## Project for learn Microfrontends with React
+
+Learn mfe using realtime integration
+https://www.udemy.com/course/microfrontend-course/
+
 ## Created by https://www.toptal.com/developers/gitignore/api/macos,node,react
 
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,node,react
